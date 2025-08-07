@@ -14,7 +14,7 @@
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" alt="Fernando coding"/>
 
-- 💻 Desarrollador **Full Stack** residente en **Málaga**
+- 💻 Desarrollador **Full Stack**
 - 🌐 Apasionado por crear soluciones web modernas y escalables
 - 📧 Contacto: **fmarort153@gmail.com**
 - 🚀 Siempre explorando nuevas tecnologías y buenas prácticas
