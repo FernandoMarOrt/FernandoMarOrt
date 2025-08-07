@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=80&lines=Desarrollador+Full+Stack+desde+Málaga;Apasionado+por+la+tecnología+y+el+código;Siempre+aprendiendo+nuevas+tecnologías+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=80&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+el+código;Siempre+aprendiendo+nuevas+tecnologías+🚀">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 - 🌐 Apasionado por crear soluciones web modernas y escalables
 - 📧 Contacto: **fmarort153@gmail.com**
 - 🚀 Siempre explorando nuevas tecnologías y buenas prácticas
-
+- 🌐 Málaga
 
 <br>
 <br>
